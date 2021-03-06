@@ -24,3 +24,7 @@ git commit -m"First Commit Adding basic files "
 
 5-steps-to-change-github-default-branch-from-master-to-main/
 https://stevenmortimer.com/5-steps-to-change-github-default-branch-from-master-to-main/
+
+<br><br>
+change commit message 
+https://linuxize.com/post/change-git-commit-message/
