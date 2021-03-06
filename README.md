@@ -21,3 +21,6 @@ git add . //. means include all files "git add hello.html" is also valid
 checkout htis link https://zeroesandones.medium.com/how-to-commit-and-push-your-changes-to-your-github-repository-in-vscode-77a7a3d7dd02
 
 git commit -m"First Commit Adding basic files "
+
+5-steps-to-change-github-default-branch-from-master-to-main/
+https://stevenmortimer.com/5-steps-to-change-github-default-branch-from-master-to-main/
