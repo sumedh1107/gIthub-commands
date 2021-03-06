@@ -28,3 +28,5 @@ https://stevenmortimer.com/5-steps-to-change-github-default-branch-from-master-t
 <br><br>
 change commit message 
 https://linuxize.com/post/change-git-commit-message/
+<br><br>
+https://www.techiedelight.com/determine-current-branch-name-git/
